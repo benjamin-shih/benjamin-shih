@@ -5,7 +5,7 @@
 
 I'm a student studying Applied Math-Computer Science at Brown University! I'm broadly interested in engineering/AI/ML and their applications to financial markets as well as social good.
 
-- 📫 Reach me at: benajmin_shih[at]brown.edu
+- 📫 Reach me at: bshih1[at]cs.brown.edu
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=benjamin-shih&show_icons=true&theme=nord" />
