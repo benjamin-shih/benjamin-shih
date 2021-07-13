@@ -8,6 +8,6 @@ I'm a student studying Applied Math-Computer Science at Brown University! I'm br
 - 📫 Reach me at: bshih1[at]cs.brown.edu
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=benjamin-shih&show_icons=true&theme=nord" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=benjamin-shih&show_icons=true&theme=nord&count_private=true" />
 </a>
 
