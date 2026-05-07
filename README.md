@@ -8,4 +8,4 @@ I'm a first-year graduate student at the Stanford Institute for Computational an
 My research interests lie in scientific machine learning, high dimensional statistics, and approximation theory. My current research is in operator learning, advised by [Zhongqiang Zhang](https://scholar.google.com/citations?user=FiMDGpcAAAAJ&hl=en) and [George Em Karniadkis](https://scholar.google.com/citations?user=yZ0-ywkAAAAJ&hl=en). 
 
 - 📫 Reach me at: benjamin.shih[at]stanford.edu
-- 📝 My website: [Personal website](https://benjaminshih.sites.stanford.edu)
+- 📝 My website: [Personal website](https://benjamin-shih.github.io)
